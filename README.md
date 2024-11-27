@@ -26,5 +26,5 @@ Pour exécuter ce projet, suivez les étapes ci-dessous :
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/yourusername/spark-fund-analysis.git
+   git clone https://github.com/amira-1manai/Spark-Fund-Data-Analysis.git
    cd spark-fund-analysis
